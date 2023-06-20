@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    printf("手書きレポート\n");
+    printf("手書きレポートやめろ！ゐね！ゐね！\n");
     return 0;
 }
